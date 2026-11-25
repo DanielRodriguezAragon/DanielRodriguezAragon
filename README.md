@@ -93,17 +93,9 @@ Aplicaciones Android con **Java, Kotlin y XML**.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /><br>
       <sub><b>Oracle</b></sub>
     </td>
-    <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL Workbench" /><br>
-      <sub><b>MySQL Workbench</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase RTDB" /><br>
-      <sub><b>Firebase RTDB</b></sub>
+    <td align="center" width="145">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL + Workbench" /><br>
+      <sub><b>MySQL + Workbench</b></sub>
     </td>
     <td align="center" width="125">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase Firestore" /><br>
@@ -134,10 +126,6 @@ Aplicaciones Android con **Java, Kotlin y XML**.
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="36" height="36" alt="Trello" /><br>
       <sub><b>Trello</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /><br>
-      <sub><b>Jira</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="36" height="36" alt="UML" /><br>
