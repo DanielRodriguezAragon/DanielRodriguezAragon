@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,55:1e1b4b,100:0891b2&height=165&section=header&text=DANIEL%20RODR%C3%8DGUEZ%20ARAG%C3%93N&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=%E2%9A%A1%20Future%20Software%20Developer%20%26%20DAM%20Student%20%F0%9F%8C%B4&descSize=16&descAlignY=68&descColor=38bdf8" alt="Daniel Rodríguez Aragón Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,55:1e1b4b,100:0891b2&height=165&section=header&text=DANIEL%20RODRIGUEZ%20ARAGON&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Future%20Software%20Developer%20%7C%20DAM%20Student&descSize=16&descAlignY=68&descColor=38bdf8" alt="Daniel Rodríguez Aragón Banner" width="100%" />
 </p>
 
 ### 👋 ¿Quién soy?
