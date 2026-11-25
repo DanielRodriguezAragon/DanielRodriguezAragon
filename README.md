@@ -19,40 +19,132 @@ Un estudiante de **DAM** en **Málaga**. Activo, curioso y en constante aprendiz
 
 ### 🛠️ Stack Tecnológico
 
-**Lenguajes y tecnologías web**  
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white)
+**Lenguajes y tecnologías web**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /><br>
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/sqlite/38BDF8" width="36" height="36" alt="SQL" /><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /><br>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/xml/38BDF8" width="36" height="36" alt="XML" /><br>
+      <sub><b>XML</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Web y backend**  
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Web y backend**
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /><br>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Desarrollo móvil**  
-Aplicaciones Android con **Java, Kotlin y XML**.  
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+Aplicaciones Android con **Java, Kotlin y XML**.
+<table>
+  <tr>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" /><br>
+      <sub><b>Android Studio</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Bases de datos SQL y NoSQL**  
-![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MYSQL_WORKBENCH-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase RTDB](https://img.shields.io/badge/FIREBASE_RTDB-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/FIREBASE_FIRESTORE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Bases de datos SQL y NoSQL**
+<table>
+  <tr>
+    <td align="center" width="115">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /><br>
+      <sub><b>Oracle</b></sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL Workbench" /><br>
+      <sub><b>MySQL Workbench</b></sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase RTDB" /><br>
+      <sub><b>Firebase RTDB</b></sub>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase Firestore" /><br>
+      <sub><b>Firebase Firestore</b></sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /><br>
+      <sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Herramientas y metodología**  
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/SCRUM-6B3FA0?style=for-the-badge&logoColor=white)
-![Trello](https://img.shields.io/badge/TRELLO-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![UML](https://img.shields.io/badge/UML-6B3FA0?style=for-the-badge&logoColor=white)
+**Herramientas y metodología**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub" /><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/scrumalliance/8B5CF6" width="36" height="36" alt="Scrum" /><br>
+      <sub><b>Scrum</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="36" height="36" alt="Trello" /><br>
+      <sub><b>Trello</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /><br>
+      <sub><b>Jira</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="36" height="36" alt="UML" /><br>
+      <sub><b>UML</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
